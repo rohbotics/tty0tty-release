@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>tty0tty</name>
+  <version>1.2.0</version>
+  <description>Linux null modem emulator</description>
+
+  <maintainer email="send2arohan@gmail.com">Rohan Agrawal</maintainer>
+  <license>GPLv2</license>
+  <author>Luis Claudio Gamboa Lope</author>
+  <author email="max.pin@bitroit.com">Maximiliano Pin</author>
+
+  <url type="website">https://github.com/freemed/tty0tty</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
