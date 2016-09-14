@@ -1,0 +1,12 @@
+Source: ros-indigo-tty0tty
+Section: misc
+Priority: extra
+Maintainer: Rohan Agrawal <send2arohan@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: https://github.com/freemed/tty0tty
+Standards-Version: 3.9.2
+
+Package: ros-indigo-tty0tty
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Linux null modem emulator
